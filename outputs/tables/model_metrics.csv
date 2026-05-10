@@ -1,6 +1,0 @@
-﻿model,R2,RMSE,MAE,MAPE_pct
-Gradient Boosting,0.8736,2.8738,2.215,5.0635
-Random Forest,0.8689,2.926,2.2313,5.0839
-Multiple Linear Regression,0.8604,3.0201,2.3195,5.2826
-Polynomial Regression,0.7643,3.9234,3.137,7.2597
-Simple Linear Regression,0.6971,4.448,3.5355,8.1086

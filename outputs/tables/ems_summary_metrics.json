@@ -1,0 +1,18 @@
+{
+  "simulation_period": "2025-06-02 00:00:00 — 2025-06-08 23:00:00",
+  "total_load_kwh": 6149.55,
+  "total_pv_generation_kwh": 2373.85,
+  "pv_coverage_pct_direct": 36.22,
+  "pv_self_consumption_pct": 100.0,
+  "battery_cycles_week": 25.97,
+  "grid_import_kwh": 4020.19,
+  "grid_export_kwh": 0.0,
+  "baseline_cost_uah": 44828.22,
+  "actual_net_cost_uah": 27987.0,
+  "weekly_savings_uah": 16841.22,
+  "annual_savings_forecast_uah": 875743.45,
+  "capex_total_uah": 2280000.0,
+  "simple_payback_years": 2.6,
+  "npv_10y_12pct_uah": 2539320.74,
+  "irr_pct": 35.63
+}

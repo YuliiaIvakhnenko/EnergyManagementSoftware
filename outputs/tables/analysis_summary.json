@@ -1,8 +1,0 @@
-{
-  "rows": 8760,
-  "best_model": "Gradient Boosting",
-  "best_rmse": 2.8738,
-  "best_mape_pct": 5.0635,
-  "next_month_forecast_kwh": 31190.52,
-  "next_month_forecast_cost_uah": 228524.89
-}
