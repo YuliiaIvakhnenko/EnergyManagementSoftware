@@ -1,0 +1,5 @@
+﻿metric,value
+rows,8760
+missing_values,0
+duplicated_timestamps,0
+outliers_z_gt_3,3

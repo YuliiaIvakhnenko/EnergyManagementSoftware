@@ -1,0 +1,2 @@
+﻿best_model,features
+Gradient Boosting,"[""temperature_c"", ""insolation_kw_m2"", ""hdd_18"", ""cdd_22"", ""import_price_uah_kwh"", ""hour_sin"", ""hour_cos"", ""dow_sin"", ""dow_cos"", ""month_sin"", ""month_cos"", ""is_weekend"", ""is_operating_hour"", ""lag_24"", ""lag_168"", ""roll_24_mean"", ""roll_24_std""]"
